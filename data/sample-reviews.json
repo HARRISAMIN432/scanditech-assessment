@@ -1,0 +1,233 @@
+{
+  "business": {
+    "name": "Northstar Café",
+    "category": "Cafe",
+    "description": "A fictional café used for the ScandicTech development assignment."
+  },
+  "reviews": [
+    {
+      "id": "REV-001",
+      "reviewer_name": "Elsa Lindberg",
+      "rating": 5,
+      "created_at": "2026-10-28T10:15:00Z",
+      "review_text": "Fantastiskt gott kaffe och nybakade bullar. Personalen var väldigt trevlig och lokalen känns varm och välkomnande."
+    },
+    {
+      "id": "REV-002",
+      "reviewer_name": "Oscar Nilsson",
+      "rating": 2,
+      "created_at": "2026-10-27T14:32:00Z",
+      "review_text": "Vi fick vänta nästan fyrtio minuter på vår beställning trots att det inte var särskilt mycket folk. Kaffet hade dessutom hunnit bli kallt."
+    },
+    {
+      "id": "REV-003",
+      "reviewer_name": "Maja Eriksson",
+      "rating": 4,
+      "created_at": "2026-10-25T09:05:00Z",
+      "review_text": "Jättefin miljö och goda bakverk. Lite höga priser, men jag kommer gärna tillbaka."
+    },
+    {
+      "id": "REV-004",
+      "reviewer_name": "Viktor Andersson",
+      "rating": 1,
+      "created_at": "2026-10-23T17:48:00Z",
+      "review_text": "Tyvärr en besvikelse. Bordet var smutsigt och ingen i personalen verkade bry sig när vi bad om hjälp."
+    },
+    {
+      "id": "REV-005",
+      "reviewer_name": "Linnea Berg",
+      "rating": 5,
+      "created_at": "2026-10-21T11:20:00Z",
+      "review_text": "Deras kanelbullar är de bästa jag har ätit på länge! Snabb service och mycket mysig atmosfär."
+    },
+    {
+      "id": "REV-006",
+      "reviewer_name": "Arvid Holm",
+      "rating": 3,
+      "created_at": "2026-10-19T13:10:00Z",
+      "review_text": "Helt okej lunch och trevlig personal. Det fanns dock flera saker på menyn som inte gick att beställa."
+    },
+    {
+      "id": "REV-007",
+      "reviewer_name": "Sofia Karlsson",
+      "rating": 4,
+      "created_at": "2026-10-16T08:40:00Z",
+      "review_text": "Bra kaffe och många alternativ utan mjölk. Jag önskar bara att det fanns fler sittplatser under helgen."
+    },
+    {
+      "id": "REV-008",
+      "reviewer_name": "Emil Svensson",
+      "rating": 2,
+      "created_at": "2026-10-12T16:25:00Z",
+      "review_text": "Beställde en smörgås utan ost men fick ändå ost på den. Personalen rättade till det, men jag hade redan väntat länge."
+    },
+    {
+      "id": "REV-009",
+      "reviewer_name": "Freja Nielsen",
+      "rating": 5,
+      "created_at": "2026-10-29T09:12:00Z",
+      "review_text": "Virkelig hyggelig café med lækker kaffe og friskbagte croissanter. Personalet var smilende og meget hjælpsomt."
+    },
+    {
+      "id": "REV-010",
+      "reviewer_name": "William Jensen",
+      "rating": 2,
+      "created_at": "2026-10-27T12:45:00Z",
+      "review_text": "Maden var kold, da den kom, og vi måtte spørge to gange om vores bestilling. Det var ikke den oplevelse, vi havde håbet på."
+    },
+    {
+      "id": "REV-011",
+      "reviewer_name": "Alma Christensen",
+      "rating": 4,
+      "created_at": "2026-10-24T15:03:00Z",
+      "review_text": "Dejligt sted at mødes med venner. Kagen var frisk og god, men musikken var lidt for høj."
+    },
+    {
+      "id": "REV-012",
+      "reviewer_name": "Noah Petersen",
+      "rating": 1,
+      "created_at": "2026-10-22T18:16:00Z",
+      "review_text": "Meget skuffende service. Vi blev ignoreret ved disken, og vores bord var ikke blevet gjort rent."
+    },
+    {
+      "id": "REV-013",
+      "reviewer_name": "Clara Møller",
+      "rating": 5,
+      "created_at": "2026-10-20T10:51:00Z",
+      "review_text": "Fantastisk brunch og en virkelig venlig betjening. Jeg kommer helt sikkert igen!"
+    },
+    {
+      "id": "REV-014",
+      "reviewer_name": "Elias Sørensen",
+      "rating": 3,
+      "created_at": "2026-10-18T13:27:00Z",
+      "review_text": "Kaffen var god, men portionen var mindre end forventet i forhold til prisen. Alt i alt en middel oplevelse."
+    },
+    {
+      "id": "REV-015",
+      "reviewer_name": "Agnes Larsen",
+      "rating": 4,
+      "created_at": "2026-10-15T08:18:00Z",
+      "review_text": "God service og et fint udvalg af vegetariske muligheder. Der var dog lidt koldt i lokalet."
+    },
+    {
+      "id": "REV-016",
+      "reviewer_name": "Malthe Rasmussen",
+      "rating": 2,
+      "created_at": "2026-10-11T11:39:00Z",
+      "review_text": "Jeg bestilte en cappuccino, men fik en almindelig latte. Det tog lang tid at få den byttet, og personalet virkede stresset."
+    },
+    {
+      "id": "REV-017",
+      "reviewer_name": "Анна Смирнова",
+      "rating": 5,
+      "created_at": "2026-10-30T09:30:00Z",
+      "review_text": "Очень уютное кафе! Кофе отличный, десерты свежие, а сотрудники внимательные и приветливые. Обязательно вернусь."
+    },
+    {
+      "id": "REV-018",
+      "reviewer_name": "Дмитрий Волков",
+      "rating": 2,
+      "created_at": "2026-10-28T16:42:00Z",
+      "review_text": "Заказ ждали почти сорок минут. Когда принесли еду, она уже была холодной. Надеюсь, в следующий раз обслуживание будет лучше."
+    },
+    {
+      "id": "REV-019",
+      "reviewer_name": "Мария Кузнецова",
+      "rating": 4,
+      "created_at": "2026-10-26T12:05:00Z",
+      "review_text": "Вкусная выпечка и приятная атмосфера. Цены немного выше среднего, но качество хорошее."
+    },
+    {
+      "id": "REV-020",
+      "reviewer_name": "Иван Петров",
+      "rating": 1,
+      "created_at": "2026-10-24T19:11:00Z",
+      "review_text": "Стол был грязным, а на просьбу убрать его никто не отреагировал. Очень неприятное впечатление."
+    },
+    {
+      "id": "REV-021",
+      "reviewer_name": "Екатерина Морозова",
+      "rating": 5,
+      "created_at": "2026-10-21T08:55:00Z",
+      "review_text": "Прекрасный капучино и невероятно вкусный чизкейк. Отдельное спасибо бариста за доброжелательность!"
+    },
+    {
+      "id": "REV-022",
+      "reviewer_name": "Алексей Соколов",
+      "rating": 3,
+      "created_at": "2026-10-19T14:20:00Z",
+      "review_text": "В целом нормально. Кофе хороший, но выбор еды небольшой, а заказ перепутали."
+    },
+    {
+      "id": "REV-023",
+      "reviewer_name": "Ольга Попова",
+      "rating": 4,
+      "created_at": "2026-10-17T10:02:00Z",
+      "review_text": "Удобное расположение, вкусный чай и много места для работы. Было бы здорово добавить больше розеток."
+    },
+    {
+      "id": "REV-024",
+      "reviewer_name": "Михаил Лебедев",
+      "rating": 2,
+      "created_at": "2026-10-13T17:34:00Z",
+      "review_text": "Заказали два десерта, но один оказался не таким, как описано в меню. Сотрудники не предложили замену или решение проблемы."
+    },
+    {
+      "id": "REV-025",
+      "reviewer_name": "Olivia Carter",
+      "rating": 5,
+      "created_at": "2026-10-31T09:45:00Z",
+      "review_text": "Lovely little café. The flat white was smooth, the pastries tasted freshly baked, and the staff made us feel welcome."
+    },
+    {
+      "id": "REV-026",
+      "reviewer_name": "James Wilson",
+      "rating": 2,
+      "created_at": "2026-10-29T13:18:00Z",
+      "review_text": "We waited over thirty minutes for two sandwiches. One order was incorrect, and nobody checked whether we needed anything else."
+    },
+    {
+      "id": "REV-027",
+      "reviewer_name": "Amelia Brooks",
+      "rating": 4,
+      "created_at": "2026-10-26T11:07:00Z",
+      "review_text": "Great atmosphere and friendly service. The coffee was excellent, although the seating area gets crowded around lunchtime."
+    },
+    {
+      "id": "REV-028",
+      "reviewer_name": "Ethan Miller",
+      "rating": 1,
+      "created_at": "2026-10-24T15:56:00Z",
+      "review_text": "Very disappointing experience. My table was sticky, the restroom needed attention, and the staff dismissed my complaint."
+    },
+    {
+      "id": "REV-029",
+      "reviewer_name": "Charlotte Evans",
+      "rating": 5,
+      "created_at": "2026-10-22T08:22:00Z",
+      "review_text": "The cinnamon rolls are incredible! Quick service, reasonable prices, and a great selection of dairy-free drinks."
+    },
+    {
+      "id": "REV-030",
+      "reviewer_name": "Benjamin Scott",
+      "rating": 3,
+      "created_at": "2026-10-20T12:40:00Z",
+      "review_text": "The food was decent and the staff were polite. Unfortunately, two items listed on the menu were unavailable."
+    },
+    {
+      "id": "REV-031",
+      "reviewer_name": "Grace Thompson",
+      "rating": 4,
+      "created_at": "2026-10-17T16:10:00Z",
+      "review_text": "A comfortable place to work for an hour or two. Wi-Fi was reliable, but there were not enough power outlets."
+    },
+    {
+      "id": "REV-032",
+      "reviewer_name": "Lucas Martin",
+      "rating": 2,
+      "created_at": "2026-10-14T10:33:00Z",
+      "review_text": "I asked for oat milk but received regular milk. The team corrected the drink, but this is an important detail that should be handled more carefully."
+    }
+  ]
+}
